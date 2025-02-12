@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taha-developer7
-- 👀 I’m interested in prgramming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on live working web application project
 - 📫 How to reach me trough facebook https://www.facebook.com/profile.php?id=61559183503552
